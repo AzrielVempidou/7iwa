@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Lia Wijaya, M.Psi",
+    "specialization": "Terapis Stres dan Kecemasan",
+    "email": "liakonselor@example.com",
+    "password": "password_lia_wijaya",
+    "fee": 150000,
+    "imageUrl": "https://example.com/lia_wijaya.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Ratna Sari, M.Psi",
+    "specialization": "Konselor Kesehatan Jiwa",
+    "email": "ratnakonselor@example.com",
+    "password": "password_ratna_sari",
+    "fee": 180000,
+    "imageUrl": "https://example.com/ratna_sari.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Andi Nugroho, Psikoterapis",
+    "specialization": "Konseling Stres Profesional",
+    "email": "andikonselor@example.com",
+    "password": "password_andi_nugroho",
+    "fee": 170000,
+    "imageUrl": "https://example.com/andi_nugroho.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Siti Handayani, M.Psi",
+    "specialization": "Terapis Stres dan Keseimbangan Emosi",
+    "email": "siti.konselor@example.com",
+    "password": "password_siti_handayani",
+    "fee": 190000,
+    "imageUrl": "https://example.com/siti_handayani.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Rudi Susanto, Psikolog",
+    "specialization": "Konselor Kesehatan Mental",
+    "email": "rudikonselor@example.com",
+    "password": "password_rudi_susanto",
+    "fee": 160000,
+    "imageUrl": "https://example.com/rudi_susanto.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Nina Pratiwi, Psikoterapis",
+    "specialization": "Konseling Kecemasan Profesional",
+    "email": "nina_konselor@example.com",
+    "password": "password_nina_pratiwi",
+    "fee": 170000,
+    "imageUrl": "https://example.com/nina_pratiwi.jpg",
+    "categoryId": 2
+  },
+  {
+    "name": "Hendra Wijaya, Psikolog",
+    "specialization": "Konseling Kecemasan dan Trauma",
+    "email": "hendro_konselor@example.com",
+    "password": "password_hendra_wijaya",
+    "fee": 180000,
+    "imageUrl": "https://example.com/hendra_wijaya.jpg",
+    "categoryId": 2
+  },
+  {
+    "name": "Dian Surya, M.Psi",
+    "specialization": "Konselor Kesehatan Mental",
+    "email": "dian_konselor@example.com",
+    "password": "password_dian_surya",
+    "fee": 190000,
+    "imageUrl": "https://example.com/dian_surya.jpg",
+    "categoryId": 2
+  },
+  {
+    "name": "Rina Susanto, M.Psi",
+    "specialization": "Terapis Gangguan Kecemasan",
+    "email": "rina_konselor@example.com",
+    "password": "password_rina_susanto",
+    "fee": 160000,
+    "imageUrl": "https://example.com/rina_susanto.jpg",
+    "categoryId": 2
+  },
+  {
+    "name": "Budi Prasetyo, Psikolog",
+    "specialization": "Konseling Kecemasan dan Stres",
+    "email": "budikonselor@example.com",
+    "password": "password_budi_prasetyo",
+    "fee": 150000,
+    "imageUrl": "https://example.com/budi_prasetyo.jpg",
+    "categoryId": 2
+  },
+  {
+    "name": "Siti Mulyani, M.Psi",
+    "specialization": "Terapis Depresi dan Kesehatan Jiwa",
+    "email": "siti_konselor@example.com",
+    "password": "password_siti_mulyani",
+    "fee": 170000,
+    "imageUrl": "https://example.com/siti_mulyani.jpg",
+    "categoryId": 3
+  },
+  {
+    "name": "Agus Santoso, Psikolog",
+    "specialization": "Konseling Depresi dan Stres",
+    "email": "agus_konselor@example.com",
+    "password": "password_agus_santoso",
+    "fee": 180000,
+    "imageUrl": "https://example.com/agus_santoso.jpg",
+    "categoryId": 3
+  },
+  {
+    "name": "Rini Kartika, M.Psi",
+    "specialization": "Konselor Kesehatan Mental",
+    "email": "rini_konselor@example.com",
+    "password": "password_rini_kartika",
+    "fee": 190000,
+    "imageUrl": "https://example.com/rini_kartika.jpg",
+    "categoryId": 3
+  },
+  {
+    "name": "Hendra Wijaya, Psikoterapis",
+    "specialization": "Konseling Depresi Profesional",
+    "email": "hendra_konselor@example.com",
+    "password": "password_hendra_wijaya",
+    "fee": 160000,
+    "imageUrl": "https://example.com/hendra_wijaya.jpg",
+    "categoryId": 3
+  },
+  {
+    "name": "Lia Wijaya, M.Psi",
+    "specialization": "Terapis Depresi dan Kesehatan Jiwa",
+    "email": "liakonselor@example.com",
+    "password": "password_lia_wijaya",
+    "fee": 150000,
+    "imageUrl": "https://example.com/lia_wijaya.jpg",
+    "categoryId": 3
+  }
+]
